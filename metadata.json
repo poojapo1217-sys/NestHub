@@ -1,0 +1,6 @@
+{
+  "name": "Comfort Stay — PG & Hostel Management System",
+  "description": "Full-stack PG & Hostel Management System for Comfort Stay PG with role-based portals for Tenants, Managers, and Owners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
